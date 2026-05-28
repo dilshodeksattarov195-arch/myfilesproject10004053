@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smssonnect",
+        "uuid": 10703973,
+        "checksum": "eyqaah"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
